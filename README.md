@@ -6,7 +6,7 @@ MOBIB-extractor allows you to read the data stored on your STIB Mobib card.
 
 Everybody loves screenshots :-)
 
-https://raw.githubusercontent.com/zoobab/mobib-extractor/master/mobib-extractor-screenshot.png
+![MOBIB Extractor screenshot](https://raw.githubusercontent.com/zoobab/mobib-extractor/master/mobib-extractor-screenshot.png)
 
 # License
 

@@ -1,0 +1,35 @@
+Version 1.0.6 - 20 march 2009 - Tania Martin
+
+Bug fix: handle unknown busses or transports identifiers.
+
+
+Version 1.0.5 - 24 february 2009 - Tania Martin
+
+Bug fix: I rectify the encoding of the person type (Mr. or Mrs.).
+
+
+Version 1.0.4 - 18 february 2009 - Tania Martin
+
+Bug fix: I rectify the number of bits which are necessary to compute the zipcode, which is 14 bits instead of 11 (as the greatest zipcode is 9992 for the city Middelburg).
+
+
+Version 1.0.3 - 17 january 2009- Tania Martin
+
+Bug fix: total counter of card validations.
+
+
+Version 1.0.2 - 11 january 2009 - Tania Martin
+
+This version resolves a bug concerning the data processing oft he buses.
+You will also find an explanation of the mentions "No info" or "Unknown" in the "More information" window.
+
+
+Version 1.0.1 - 9 january 2009 - Tania Martin
+
+This version resolves a bug due to the number of readers that could be connected to the computer.
+Do not forget that the application is only compliant with the readers ACS ACR122 and ACS ACR38 !
+
+
+Version 1.0 - 8 january 2009 - Tania Martin
+
+Initial release

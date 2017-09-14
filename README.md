@@ -84,9 +84,9 @@ the command:
 - <Up arrow> to scroll up
 - <Down arrow> to scroll down
 - <Esc> to leave the program
-- <a> to dump a card
-- <o> to open a dump
-- <s> to save a dump
+- ```<a>``` to dump a card
+- ```<o>``` to open a dump
+- ```<s>``` to save a dump
 
 # Todo
 

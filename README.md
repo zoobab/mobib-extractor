@@ -59,15 +59,15 @@ the command:
 
 # User manual
 
-1- If you want to read a card:
-1.1- Plug your reader and put your card on
-1.2- Click File and click Acquisition
-2- If you want to read an old dump file card:
-2.1- Click File and click Open dump
-2.2- Then select the file you want to read
-3- If you want to save a dump card:
-3.1- Click File and click Save dump
-3.2- Then choose the name and directory to record the dump
+1. If you want to read a card:
+1.1. Plug your reader and put your card on
+1.2. Click File and click Acquisition
+2. If you want to read an old dump file card:
+2.1. Click File and click Open dump
+2.2. Then select the file you want to read
+3. If you want to save a dump card:
+3.1. Click File and click Save dump
+3.2. Then choose the name and directory to record the dump
 
 # Keyboard shortcuts
 

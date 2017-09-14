@@ -77,13 +77,13 @@ the command:
 
 # Keyboard shortcuts
 
-- <Double-Click> to zoom + or -
-- <MouseWheel> to vertical scroll
-- <Left arrow> to scroll left
-- <Right arrow> to scroll right
-- <Up arrow> to scroll up
-- <Down arrow> to scroll down
-- <Esc> to leave the program
+- ```<Double-Click>``` to zoom + or -
+- ```<MouseWheel>``` to vertical scroll
+- ```<Left arrow>``` to scroll left
+- ```<Right arrow>``` to scroll right
+- ```<Up arrow>``` to scroll up
+- ```<Down arrow>``` to scroll down
+- ```<Esc>``` to leave the program
 - ```<a>``` to dump a card
 - ```<o>``` to open a dump
 - ```<s>``` to save a dump

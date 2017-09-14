@@ -1,3 +1,7 @@
+# About
+
+MOBIB-extractor allows you to read the data stored on your STIB Mobib card.
+
 # License
 
 (c) 2009 MOBIB Extractor project. This software is provided 'as-is',

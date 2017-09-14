@@ -87,3 +87,12 @@ the command:
 - <a> to dump a card
 - <o> to open a dump
 - <s> to save a dump
+
+# Todo
+
+* add a requirements.txt
+* add a list of tested and working readers
+* dump the content with an NFC reader with Nexus5 and read it?
+* add a docker container
+* CLI output next to this TK graphical interface
+* TK interface is too big

@@ -96,3 +96,7 @@ the command:
 * add a docker container
 * CLI output next to this TK graphical interface
 * TK interface is too big
+
+# Links
+
+* https://github.com/QKaiser/mobib-extractor

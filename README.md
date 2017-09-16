@@ -88,6 +88,10 @@ the command:
 - ```<o>``` to open a dump
 - ```<s>``` to save a dump
 
+# Working USB readers
+
+* Advanced Card Systems (ACR) ACR122: Bus 002 Device 002: ID 072f:2200 Advanced Card Systems, Ltd ACR122U
+
 # Todo
 
 * add a requirements.txt
@@ -99,4 +103,23 @@ the command:
 
 # Links
 
-* https://github.com/QKaiser/mobib-extractor
+* https://github.com/QKaiser/mobib-extractor : CLI version working! Screenshot:
+```
+$ ./extract.py
+Smartcard reader detected.
+Connecting to ACS ACR122U PICC Interface 00 00...
+ 
+Card number: 6396532009560098406
+Name: Mr BENJAMIN BERNARD HENRION                          
+Birthday: 11 / 09 / 1979
+Zip code: 0
+Contract type: UNKNOWN
+Remaining travels: 0
+ 
+Last known locations:
+ 
+Transport   Line    Station     Time
+Metro       1A/1B   Maelbeek        16/09/2017 11:47
+Metro       1A/1B   Sainte Catherine        08/09/2017 18:53
+-       0   No info     - 0:00
+```

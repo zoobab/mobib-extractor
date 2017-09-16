@@ -90,7 +90,7 @@ the command:
 
 # Working USB readers
 
-* Advanced Card Systems (ACR) ACR122: Bus 002 Device 002: ID 072f:2200 Advanced Card Systems, Ltd ACR122U
+* Advanced Card Systems (ACR) ACR122 (lsusb: Bus 002 Device 002: ID 072f:2200 Advanced Card Systems, Ltd ACR122U)
 
 # Todo
 
